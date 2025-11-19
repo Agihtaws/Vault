@@ -1,0 +1,11 @@
+{
+  "network": "baseSepolia",
+  "deployer": "0x63eea403e3075D9e6b5eA18c28021e6FfdD04a67",
+  "contracts": {
+    "VaultRegistry": "0x1adA881B3Fc06972Cb16A61DE6166fb2242B1cBd",
+    "FrontendRegistry": "0x99a18f6A5d384711D41DA514b9DB1A00EF765e00"
+  },
+  "frontendHash": "0x1f3b324ecf74ad321d9f48a881ae0e3c55fd17a391a39674286d6b05345c977c",
+  "frontendVersion": "v1.0.0",
+  "timestamp": "2025-11-19T20:03:32.311Z"
+}
