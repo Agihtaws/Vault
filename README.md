@@ -2,7 +2,7 @@
 
 > A decentralized password manager with tamper-proof frontend deployment via PinMe
 
-[![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-success?style=for-the-badge)](https://iggepe6m.pinit.eth.limo)
+[![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-success?style=for-the-badge)](https://iggepe6m.pinit.eth.limo/)
 [![Video Demo](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge)](YOUR_YOUTUBE_LINK_HERE)
 
 ---
@@ -31,7 +31,7 @@ VaultLink uses:
 
 ## 🚀 Live Demo
 
-**Try it now:** https://iggepe6m.pinit.eth.limo
+**Try it now:** https://iggepe6m.pinit.eth.limo/
 
 **Watch demo:** [YouTube Video](YOUR_YOUTUBE_LINK_HERE)
 
